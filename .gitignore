@@ -1,0 +1,11 @@
+# pycache
+*.pyc
+
+# dataset
+/dataset/*
+*.png
+
+# model
+*.pth
+*.onnx
+*.pb
