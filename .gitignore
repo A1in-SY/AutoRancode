@@ -9,3 +9,6 @@
 *.pth
 *.onnx
 *.pb
+
+# python
+*.py
