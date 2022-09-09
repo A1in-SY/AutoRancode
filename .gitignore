@@ -1,14 +1,15 @@
 # pycache
 *.pyc
 
-# dataset
-/dataset/*
+# images
 *.png
 
 # model
 *.pth
 *.onnx
 *.pb
+*.npy
 
 # python
 *.py
+*.tmp
